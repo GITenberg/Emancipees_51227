@@ -1,5 +1,8 @@
 _repo: Emancipees_51227
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51227-h/images/cover.jpg
 creator:
   author:
     agent_name: Cim, Albert
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '7504'
     url: http://www.gutenberg.org/2009/agents/7504
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51227#Emancipees
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
